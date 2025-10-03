@@ -1,7 +1,7 @@
 # Hi, I'm Xorian. My Chinese name is Xuyang Ma. 👋
 - 🏫 Undergrad: The Hong Kong University of Science and Technology (Guangzhou), Class of 2025, AI
 - 📧 Email: xma034@connect.hkust-gz.edu.cn / maxuyang54@gmail.com
-- 🌐 Homepage: https://xorian-ma.github.io 
+- 🌐 Homepage: https://github.com/xorian-ma 
 - 💻 Languages: Python / C++
 - 📊 Research: AI, computer graphics, geometry processing, visualization
 
