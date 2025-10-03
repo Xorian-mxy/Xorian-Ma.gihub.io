@@ -12,7 +12,5 @@
 | NumPy-Matplotlib Lab | 100-line 3-D point-cloud viewer for MIT SGI prep | [👉 Code](https://github.com/xorian-ma/NumpyDemo)**In progress** |
 
 ## 📈 GitHub Stats
-
 ![Xorian's GitHub stats](https://github-readme-stats.vercel.app/api?username=xorian-ma&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xorian-ma&layout=compact&theme=radical)
