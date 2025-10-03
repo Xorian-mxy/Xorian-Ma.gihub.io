@@ -8,8 +8,8 @@
 ## 🔥 Latest Projects (WIP – updating daily)
 | Project | Description | Code |
 |---|---|---|
-| Ray Tracer 101 | Building a mini ray-tracer in Python (Day 1-30 challenge) | [👉 Code](https://github.com/Xorian-mxy/RayTracer101)**Coming soon** |
-| NumPy-Matplotlib Lab | 100-line 3-D point-cloud viewer for MIT SGI prep | [👉 Code](https://github.com/Xorian-mxy/NumpyDemo)**In progress** |
+| Ray Tracer 101 | Building a mini ray-tracer in Python (Day 1-30 challenge) | [👉 Code](https://github.com/xorian-ma/RayTracer101)**Coming soon** |
+| NumPy-Matplotlib Lab | 100-line 3-D point-cloud viewer for MIT SGI prep | [👉 Code](https://github.com/xorian-ma/NumpyDemo)**In progress** |
 
 ## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Xorian-mxy&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=xorian-ma&show_icons=true&theme=radical)
