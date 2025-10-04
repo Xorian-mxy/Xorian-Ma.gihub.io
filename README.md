@@ -8,7 +8,7 @@
 ## 🔥 Latest Projects (WIP – updating daily)
 | Project | Description | Code |
 |---|---|---|
-| project 1 | Building a mini ray-tracer in Python (Day 1-30 challenge) | [👉 Code](https://github.com/xorian-ma/project1)(https://docs.github.com/zh/get-started))**In progress** |
+| project 1 | Building a mini ray-tracer in Python (Day 1-30 challenge) | [👉 Code](https://github.com/xorian-ma/project1)**In progress** |
 | project 2 | 100-line 3-D point-cloud viewer for MIT SGI prep | [👉 Code](https://github.com/xorian-ma/project2)**In progress** |
 
 ## 📈 GitHub Stats
